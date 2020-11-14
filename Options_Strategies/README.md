@@ -86,9 +86,6 @@ Time Value = Option Premium - Intrinsic Value
 
 https://www.investopedia.com/trading/options-strategies/
 
-## Author:    
-### Tin Hang  
-
 ## References:  
 https://www.investopedia.com/trading/options-strategies/  
 https://www.optionsplaybook.com/option-strategies/  
